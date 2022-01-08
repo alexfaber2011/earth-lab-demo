@@ -1,0 +1,20 @@
+html {
+  font-family: sans-serif;
+  font-weight: light;
+}
+
+#foo-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 500px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+#map {
+  height: 768px;
+  width: 1024px;
+}
